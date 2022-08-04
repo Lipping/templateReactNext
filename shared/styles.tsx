@@ -11,8 +11,10 @@ export const globalStyles = (
         margin: 0;
         background: #222;
         min-height: 100%;
-        font-family: Helvetica, Arial, sans-serif;
-        font-size: 24px;
+        font-family: 'Poppins', sans-serif;
+        font-size: 16px;
+        color: #f7f7f7;
+        line-height: 200%;
       }
     `}
   />
